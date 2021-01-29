@@ -34,7 +34,6 @@ Download the .mlapp file then run it via matlab. Or install the standalone app f
 The project has been developped on MATLAB 2020b 9.9.0.1538559, on windows 10 64 bits.
 
 ## How to cite
-If ever needed:
 Robinault Lucien (2021). Qualisys mat files viewer V1.0.1 (https://github.com/TSS-22/Qualisys-mat-files-viewer), GitHub. DOI: 10.5281/zenodo.4480311
 
 ## Disclaimer
