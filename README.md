@@ -35,6 +35,7 @@ The project has been developped on MATLAB 2020b 9.9.0.1538559, on windows 10 64 
 
 ## How to cite
 If ever needed:
+Robinault Lucien (2021). Qualisys mat files viewer V1.0.1 (https://github.com/TSS-22/Qualisys-mat-files-viewer), GitHub. DOI: 10.5281/zenodo.4480311
 
 ## Disclaimer
 The information and tools contained in this repository are provided in good faith and no warranty, representation, statement or undertaking is given regarding any information or tool connected with this repository and any warranty, representation, statement or undertaking whatsoever that may be expressed or implied by statute, custom or otherwise is hereby expressly excluded.
